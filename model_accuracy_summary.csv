@@ -1,0 +1,7 @@
+model,accuracy
+Random Forest + SVM (RBF) (Voting:soft),0.98
+Logistic Regression,0.975
+SVM (RBF),0.96
+Logistic Regression + Naive Bayes (Voting:soft),0.935
+SVM (RBF) + Naive Bayes (Voting:soft),0.935
+Naive Bayes,0.91
